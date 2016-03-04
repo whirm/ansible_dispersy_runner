@@ -15,9 +15,9 @@
     - libsodium13
     - libstdc++6-4.8-dbg
     - libx11-6
-    - python2.7
     - python-apsw
     - python-configobj
+    - python-crypto
     - python-cryptography
     - python-dbg
     - python-gmpy
@@ -32,3 +32,4 @@
     - python-twisted-bin-dbg
     - python-virtualenv
     - python-zope.interface-dbg
+    - python2.7
