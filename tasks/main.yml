@@ -26,6 +26,7 @@
     - python-netifaces
     - python-pil
     - python-pip
+    - python-protobuf
     - python-pyasn1
     - python-requests
     - python-twisted
